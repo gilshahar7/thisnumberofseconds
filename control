@@ -1,0 +1,9 @@
+Package: com.gilshahar7.thisnumberofseconds
+Name: ThisNumberOfSeconds
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: gilshahar7 <gilshahardex99@gmail.com>
+Author: gilshahar7 <gilshahardex99@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
